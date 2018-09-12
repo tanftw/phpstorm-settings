@@ -1,0 +1,35 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="CollapseSelection" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.SetDefault" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
